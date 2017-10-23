@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: quickcd
+Source: https://github.com/lordadamson/QuickCD
+
+Files: *
+Copyright: 2017 Adam Zahran <adham.zahran@hotmail.com>
+License: GPL-3
+
+License: GPL-3
+ On Debian systems, the text of the GPL3 License can be found in
+ '/usr/share/common-licenses/GPL-3'.

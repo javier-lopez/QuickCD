@@ -1,0 +1,3 @@
+#!/usr/bin/dh-exec
+qcd.sh => /usr/share/qcd/qcd.sh
+bashrc => /etc/profile.d/qcd.sh
